@@ -39,5 +39,4 @@ Here are some projects that reached a usable state.
 
 ### 📫 How to Reach Me
 
--   **Telegram:** `[Chat on Telegram](https://t.me/YOUR_USERNAME)`
 -   **Email:** `kobaltmail@gmail.com`
