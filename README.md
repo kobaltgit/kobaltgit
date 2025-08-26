@@ -23,8 +23,8 @@ Here are some projects that reached a usable state.
 | Project | Description |
 |---|---|
 | **[CodePilotAI](https://github.com/kobaltgit/CodePilotAI)** | An AI assistant for codebase analysis. |
-| **[Gemini-Project-Chat](https://github.com/kobaltgit/Gemini-Project-Chat)** | A desktop chat with Gemini that sees a project's files as context. |
-| **[GitGemini_Pro](https://github.com/kobaltgit/GitGemini_Pro)** | An assistant for analyzing GitHub repositories via a link. |
+| **[MiniBin](https://github.com/kobaltgit/minibin)** | Minibin is a small utility for clearing the Recycle Bin in Windows 10 and 11. |
+| **[MyGemini_Zero](https://github.com/kobaltgit/MyGemini_Zero)** | This is a secure Telegram bot that uses encryption to create your personal, smart, and continuously learning assistant. |
 | **[MyGemini](https://github.com/kobaltgit/MyGemini)** | My personal AI assistant in Telegram. |
 | **[gemini_translator](https://github.com/kobaltgit/gemini_translator)** | A desktop translator app powered by Gemini. |
 | **[HumanizeAI_Pro-releases](https://github.com/kobaltgit/HumanizeAI_Pro-releases)** | A tool for editing AI-generated texts to make them sound more natural. |
