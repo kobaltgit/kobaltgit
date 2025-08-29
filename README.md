@@ -22,6 +22,7 @@ Here are some projects that reached a usable state.
 
 | Project | Description |
 |---|---|
+| **[Undoit](https://github.com/kobaltgit/Undoit)** | A lightweight utility for Windows that automatically tracks changes in files and folders you specify. |
 | **[CodePilotAI](https://github.com/kobaltgit/CodePilotAI)** | An AI assistant for codebase analysis. |
 | **[MiniBin](https://github.com/kobaltgit/minibin)** | Minibin is a small utility for clearing the Recycle Bin in Windows 10 and 11. |
 | **[MyGemini_Zero](https://github.com/kobaltgit/MyGemini_Zero)** | This is a secure Telegram bot that uses encryption to create your personal, smart, and continuously learning assistant. |
