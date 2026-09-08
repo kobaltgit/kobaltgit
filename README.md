@@ -25,19 +25,36 @@ A suite of ultra-lightweight, native-feeling Windows utilities built with **Rust
 | **[PeekIt](https://github.com/kobaltgit/PeekIt)** | `Rust` `Tauri v2` | Instant Spacebar file preview for Windows — ultra-lightweight alternative to QuickLook & PowerToys Peek. |
 | **[peekit-plugins](https://github.com/kobaltgit/peekit-plugins)** | `Rust` `TypeScript` | Official plugin ecosystem, directory, and packaging toolkit (`.pkit`) for extending PeekIt. |
 | **[StashIt](https://github.com/kobaltgit/StashIt)** | `Rust` `Tauri v2` `Svelte 5` | Lightweight Drag & Drop shelf for Windows (Dropover/Yoink alternative). Shake cursor to stash files, links & text. |
-| **[PolyShift](https://github.com/kobaltgit/polyshift)** | `Rust` `Tauri v2` `Gemini` | Lightning-fast desktop AI assistant. Instant translation, rephrasing, summarize & explain any selected text via hotkeys. |
-| **[Undoit](https://github.com/kobaltgit/Undoit)** | `Python` / `Windows` | Automatic local file versioning utility that creates instant restore points on every save. |
+| **[PolyShift](https://github.com/kobaltgit/polyshift)** | `Rust` `Tauri v2` `Gemini` | Lightning-fast desktop AI assistant. Instant translation, style fix, summarize & explain any selected text via hotkeys. |
+| **[MiniBin](https://github.com/kobaltgit/minibin)** | `Rust` `Tauri v2` `Svelte 5` | Compact and convenient tray utility for instant Recycle Bin management and disk cleanup in Windows 10 & 11. |
+| **[Undoit](https://github.com/kobaltgit/Undoit)** | `Rust` `Tauri v2` `Svelte 5` | Automatic local file versioning utility for Windows that tracks changes and creates instant restore points on save. |
+
+<br/>
+
+<details>
+<summary><b>📦 Earlier AI Experiments & Telegram Bots</b></summary>
+<br/>
+
+- **[MyGemini](https://github.com/kobaltgit/MyGemini)** — Personal AI assistant in Telegram with memory and Gemini API.
+- **[CodePilotAI](https://github.com/kobaltgit/CodePilotAI)** — AI tool for codebase analysis using project files as context.
+- **[gemini_translator](https://github.com/kobaltgit/gemini_translator)** — Desktop translator app powered by Gemini.
+- **[HumanizeAI_Pro](https://github.com/kobaltgit/HumanizeAI_Pro-releases)** — Desktop tool for polishing and humanizing AI-generated texts.
+</details>
 
 ---
 
 ### 📊 GitHub Stats
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="./github-metrics.svg" alt="Metrics">
+</picture>
+<br/><br/>
+<picture>
+  <img src="https://streak-stats.demolab.com?user=kobaltgit&theme=vue-dark&hide_border=true" alt="GitHub Streak">
 </picture>
 
 ---
 
 ### 📫 How to Reach Me
 
-- **Email:** `kobaltmail@gmail.com`
+- **Email:** [kobaltmail@gmail.com](mailto:kobaltmail@gmail.com)
