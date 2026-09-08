@@ -10,25 +10,23 @@ I often doubt my own competence, but I'm fascinated by the process itself: is it
 
 ### ⚙️ How It (Usually) Works (or Doesn't)
 
-1.  **Idea:** A thought pops up, like "What if I made a thing that does...".
-2.  **Dialogue with AI:** I start describing this idea to Gemini. It offers the first version of the code. I run it, see errors, describe them back to the AI, clarify what I meant, and we repeat this loop over and over.
-3.  **Result:** Eventually, if I have enough patience, an application emerges. All the code in my repositories was written by an AI under my direction.
+1. **Idea:** A thought pops up, like "What if I made a thing that does...".
+2. **Dialogue with AI:** I start describing this idea to Gemini. It offers the first version of the code. I run it, see errors, describe them back to the AI, clarify what I meant, and we repeat this loop over and over.
+3. **Result:** Eventually, if I have enough patience, an application emerges. All the code in my repositories was written by an AI under my direction.
 
 ---
 
-### 🧪 Some of My Experiments
+### ⚡ The Kobalt Tools Ecosystem
 
-Here are some projects that reached a usable state.
+A suite of ultra-lightweight, native-feeling Windows utilities built with **Rust + Tauri v2**, designed to be fast, beautiful, and respect system resources (< 25 MB RAM).
 
-| Project | Description |
-|---|---|
-| **[Undoit](https://github.com/kobaltgit/Undoit)** | A lightweight utility for Windows that automatically tracks changes in files and folders you specify. |
-| **[CodePilotAI](https://github.com/kobaltgit/CodePilotAI)** | An AI assistant for codebase analysis. |
-| **[MiniBin](https://github.com/kobaltgit/minibin)** | Minibin is a small utility for clearing the Recycle Bin in Windows 10 and 11. |
-| **[MyGemini_Zero](https://github.com/kobaltgit/MyGemini_Zero)** | This is a secure Telegram bot that uses encryption to create your personal, smart, and continuously learning assistant. |
-| **[MyGemini](https://github.com/kobaltgit/MyGemini)** | My personal AI assistant in Telegram. |
-| **[gemini_translator](https://github.com/kobaltgit/gemini_translator)** | A desktop translator app powered by Gemini. |
-| **[HumanizeAI_Pro-releases](https://github.com/kobaltgit/HumanizeAI_Pro-releases)** | A tool for editing AI-generated texts to make them sound more natural. |
+| Project | Stack | Description |
+|---|---|---|
+| **[PeekIt](https://github.com/kobaltgit/PeekIt)** | `Rust` `Tauri v2` | Instant Spacebar file preview for Windows — ultra-lightweight alternative to QuickLook & PowerToys Peek. |
+| **[peekit-plugins](https://github.com/kobaltgit/peekit-plugins)** | `Rust` `TypeScript` | Official plugin ecosystem, directory, and packaging toolkit (`.pkit`) for extending PeekIt. |
+| **[StashIt](https://github.com/kobaltgit/StashIt)** | `Rust` `Tauri v2` `Svelte 5` | Lightweight Drag & Drop shelf for Windows (Dropover/Yoink alternative). Shake cursor to stash files, links & text. |
+| **[PolyShift](https://github.com/kobaltgit/polyshift)** | `Rust` `Tauri v2` `Gemini` | Lightning-fast desktop AI assistant. Instant translation, rephrasing, summarize & explain any selected text via hotkeys. |
+| **[Undoit](https://github.com/kobaltgit/Undoit)** | `Python` / `Windows` | Automatic local file versioning utility that creates instant restore points on every save. |
 
 ---
 
@@ -42,4 +40,4 @@ Here are some projects that reached a usable state.
 
 ### 📫 How to Reach Me
 
--   **Email:** `kobaltmail@gmail.com`
+- **Email:** `kobaltmail@gmail.com`
