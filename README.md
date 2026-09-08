@@ -34,7 +34,7 @@ Here are some projects that reached a usable state.
 
 ### 📊 GitHub Stats
 
-[![kobaltgit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobaltgit&show_icons=true&theme=transparent)](https://github.com/kobaltgit)
+![Metrics](./github-metrics.svg)
 
 ---
 
